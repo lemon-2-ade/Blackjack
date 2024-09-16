@@ -22,6 +22,7 @@ A simple command-line game of Blackjack written in Python. The player competes a
 1. Clone or download the repository.
 2. Navigate to the project directory.
 3. Run the following command to start the game:
+
     ```bash
     python blackjack.py
     ```
